@@ -1,0 +1,10 @@
+Classe - representação de um cenário físico !!Toda classe deve ser inicializada com letra maiúscula!!! Tudo que for dentro da classe representa uma característica da mesma.
+
+As características de uma classe deve ser privada, pois pertence somente a classe utilizada, então utiliza-se  o private
+
+Para utilizar um atributo privado de uma classe em outras, utiliza-se os métodos Set e Get
+
+
+
+
+
